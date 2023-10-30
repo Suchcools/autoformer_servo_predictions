@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 *.npz
+*.npy
+*.pkl
 *.csv
 *.xlsx
 *.pth
+*.pdf
